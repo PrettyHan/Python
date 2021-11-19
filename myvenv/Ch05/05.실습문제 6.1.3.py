@@ -1,3 +1,6 @@
+# 실습문제 6.1.3
+# 로또 번호 추출기
+
 import random
 
 def get_random_number():

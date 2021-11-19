@@ -11,4 +11,3 @@ def multiply(x, y):
     return result
 
 print(multiply(3, 4))    
-
