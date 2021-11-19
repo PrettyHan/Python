@@ -12,10 +12,3 @@ def multiply(x, y):
 
 print(multiply(3, 4))    
 
-def printSumAvg(x,y,z):
-    Sum = (x + y + z)
-    Avg = (x * y * z)
-    print("x+y+z""" "합계")
-    print("x*y*z""" "평균")
-       
-print(printSumAvg(10,20,30))
